@@ -1,0 +1,22 @@
+# Entornos virtuales
+.env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Pytest
+.pytest_cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
